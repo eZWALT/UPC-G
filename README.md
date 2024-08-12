@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains resources, exercises and solved laboratory tests and exercises related to the Graphics (G) subject 2022-23 Q2 FIB-GEI, which was my second graphics subject where I gathered even more OpenGL and computer graphics experience and expertise.
+This repository contains resources, exercises and solved laboratory tests and exercises related to the Graphics (G) subject 2022-23 Q2 FIB-GEI, which was my second graphics subject where I gathered even more OpenGL experience and delved into advanced computer graphic topics.
 
 ## Contents
 
